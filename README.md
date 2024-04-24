@@ -24,3 +24,5 @@ The idea originated from a desire to create a more complex and smaller PCB that 
 The ESP32-S3 is not high-end or anything special, but I plan to quickly redesign this board using the newly announced ESP32-P4. It is a really interesting and high-speed CPU based on the RISC-V architecture and I'm excited to start creating some (DSP) code with it. 
 
 I have ordered the components and the PCB to start experimenting with it.
+
+https://www.linkedin.com/in/daan-heetkamp/
