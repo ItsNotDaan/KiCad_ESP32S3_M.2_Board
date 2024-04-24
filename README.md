@@ -4,14 +4,14 @@ This is my first KiCad project, developed over the last 2 months alongside my EP
 
 ### Main Components
 
--[] **CPU:** ESP32-S3R8
--[] **Flash:** W25Q16JVUXIQ (16MBIT)
--[] **Crystals:** 40MHz and 32.768KHz (HSE/LSE)
--[] **Power/Flashing/Debugging:** USB-C
--[] **Buck Converter:** TLV62568DBV
--[] **Buttons:** Two buttons for RESET and BOOT
--[] **Antenna:** Antenna with PI filter
--[] **PCB:** 4-layer PCB (Top, GND, VCC, Bottom), internal planes are hidden
+- **CPU:** ESP32-S3R8
+- **Flash:** W25Q16JVUXIQ (16MBIT)
+- **Crystals:** 40MHz and 32.768KHz (HSE/LSE)
+- **Power/Flashing/Debugging:** USB-C
+- **Buck Converter:** TLV62568DBV
+- **Buttons:** Two buttons for RESET and BOOT
+- **Antenna:** Antenna with PI filter
+- **PCB:** 4-layer PCB (Top, GND, VCC, Bottom), internal planes are hidden
 
 All these components are included on a M.2-B-Key footprint. 
 
