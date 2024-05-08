@@ -642,7 +642,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LOGO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14628,19 +14628,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "PCB32_TL_ESP32S3_M.2_Board"
-		(at 213.625 87.125 0)
-		(layer "F.SilkS")
-		(uuid "5d28d2e7-1338-4cac-8833-444c2afe36d4")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
 	(gr_text "M.2 USB\nENABLE\n"
 		(at 232.625 123.4 0)
 		(layer "F.SilkS" knockout)
@@ -14712,19 +14699,6 @@
 			(font
 				(size 0.7 0.7)
 				(thickness 0.15)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "PCB32_BR_ESP32S3_M.2_Board"
-		(at 243 136.05 0)
-		(layer "F.SilkS")
-		(uuid "bef8d809-bd3c-4b99-9a36-bca91ab989ca")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
 				(bold yes)
 			)
 			(justify left bottom)

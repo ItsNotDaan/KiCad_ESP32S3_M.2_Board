@@ -591,8 +591,8 @@
       "plot": "Fabrication/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
+      "step": "ESP32S3_M.2_Board.step",
+      "svg": "C:/Users/Daanh/Downloads/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
