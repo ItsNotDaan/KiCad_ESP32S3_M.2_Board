@@ -2,6 +2,8 @@
 
 This is my first KiCad project, developed over the last 2 months alongside my EPS project and work. 
 
+[KiCanvas Webpreview of latest version](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FItsNotDaan%2FKiCad_ESP32S3_M.2_Board%2Ftree%2Fmain%2FESP32S3_M.2_Board)
+
 ### Main Components
 
 - **CPU:** ESP32-S3R8
