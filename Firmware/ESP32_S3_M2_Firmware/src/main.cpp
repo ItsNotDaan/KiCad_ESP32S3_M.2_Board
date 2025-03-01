@@ -2,11 +2,11 @@
 #include <LED.h>
 
 /*To do:
-  - Add the SPI flash memory. 
-  - Add the RGB LED.
+  - Add the SPI flash memory. DONE
+  - Add the RGB LED. DONE
   - Check the USB connection.
   - Add some DSP functions in Espressif IoT Development Framework.
-  - Add a WiFi connection.
+  - Add a WiFi connection. 
   - Add a Bluetooth connection.
 
 */

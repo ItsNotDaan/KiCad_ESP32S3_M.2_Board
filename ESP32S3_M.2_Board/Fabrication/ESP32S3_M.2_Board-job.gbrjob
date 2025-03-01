@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.1"
+      "Version": "9.0.0"
     },
-    "CreationDate": "2024-04-18T13:31:19+02:00"
+    "CreationDate": "2025-02-28T21:47:31+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -46,57 +46,57 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "ESP32S3_M.2_Board-Top.gbr",
+      "Path": "ESP32S3_M-Top.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32S3_M.2_Board-GND.gbr",
-      "FileFunction": "Copper,L2,Inr",
+      "Path": "ESP32S3_M-GND.gbr",
+      "FileFunction": "Copper,L5,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32S3_M.2_Board-VCC.gbr",
-      "FileFunction": "Copper,L3,Inr",
+      "Path": "ESP32S3_M-VCC.gbr",
+      "FileFunction": "Copper,L7,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32S3_M.2_Board-Bottom.gbr",
+      "Path": "ESP32S3_M-Bottom.gbr",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32S3_M.2_Board-F_Paste.gbr",
+      "Path": "ESP32S3_M-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32S3_M.2_Board-B_Paste.gbr",
+      "Path": "ESP32S3_M-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32S3_M.2_Board-F_Silkscreen.gbr",
+      "Path": "ESP32S3_M-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32S3_M.2_Board-B_Silkscreen.gbr",
+      "Path": "ESP32S3_M-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32S3_M.2_Board-F_Mask.gbr",
+      "Path": "ESP32S3_M-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ESP32S3_M.2_Board-B_Mask.gbr",
+      "Path": "ESP32S3_M-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ESP32S3_M.2_Board-Edge_Cuts.gbr",
+      "Path": "ESP32S3_M-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
