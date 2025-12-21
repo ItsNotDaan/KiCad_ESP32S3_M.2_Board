@@ -1,3 +1,5 @@
+## **NOTE**: The latest version of this project can be found in the main LiberBoard Repo: https://github.com/ItsNotDaan/LiberBoard/tree/main/Main_Boards/LiBo_M.2_ESP32S3
+
 ## ESP32-S3, M.2 based System on Module (SOM)
 
 This is my first KiCad project, developed over the last 2 months alongside my EPS project and work. 
